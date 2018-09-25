@@ -30,12 +30,12 @@ public class Feladat {
                 System.out.println(adathordozok [i]);
             }
         }
-        //Próba
+        Próba
         System.out.println("");
         Adathordozo a=new Merevlemez (64, 2);
         Merevlemez m=(Merevlemez)a;
-        //System.out.println(a);
-        //System.out.println(m);
+        System.out.println(a);
+        System.out.println(m);
         
     }
     
